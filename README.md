@@ -21,7 +21,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "viveksingh9280@gmail.com" or 
+  Mail me at "0012065@psitche.ac.in" or 
   scroll to bottom of the page of "https://codingvivek.github.io/portfolio/" and find CONTACT ME
 
 ## 🌐Socials
