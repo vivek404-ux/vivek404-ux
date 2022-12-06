@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://github.com/codingvivek
+🔭 I’m currently working on my github page : https://github.com/vivek404-ux
   
 🌱 I’m currently learning : JavaScript
 
